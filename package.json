@@ -1,7 +1,7 @@
 {
     "name": "com.dropecho.multiple_model_material_tool",
     "version": "0.1.0",
-    "displayName": "Multiple Material Tool",
+    "displayName": "Dropecho Multiple Material Tool",
     "description": "A utility for extracting/remapping multiple materials and textures.",
     "author": "Dropecho <vantreeseba@gmail.com>",
     "repository": "github:dropecho/unity_multiple_model_material_tool",
